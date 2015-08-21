@@ -48,6 +48,11 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.option-clean {
+		background: rgba(144, 144, 144, 0.25);
+		color: rgba(0, 0, 0, 0.66);
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1922,7 +1927,7 @@
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #00FFF9;
 		}
 
 		.icon.style2 {
